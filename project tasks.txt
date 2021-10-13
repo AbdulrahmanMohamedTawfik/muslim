@@ -1,0 +1,15 @@
+
+علي ابراهيم:
+-created the content of 5 html pages & added some images & slidesow html code & admin.html
+
+يوسف احمد بسيم:
+-created admin.js & home.js & login.js & register.js & edited some options in html
+
+عبد الرحمن فخري:
+- edited the content of 5 html pages & edited some options in css
+
+عبد الرحمن محمد توفيق:
+-the owner of the idea & created login.html & logout.html & register.html & whole project style & slideshow (style & js) & dropdownlist(html & js & css)
+
+فتحي ناصر فتحي:
+-added reset option to admin page
